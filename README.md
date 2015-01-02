@@ -19,6 +19,12 @@ If you love coding, I strongly encourage becoming great at it, because being a s
 
 If you don't love coding, I would suggest not trying to become a software engineer, but you should try to become *adequate* at basic web/software engineering as its widely useful for a variety of endeavors, whether you're interested in game design, research, graphic design, other fields of engineering, marketing, etc.
 
+**Things to learn**
+
+*CSS*
+- http://www.codecademy.com/courses/css-coding-with-style/
+- http://adamschwartz.co/magic-of-css/
+
 People on this wacky journey with me:
 =======
 Chris (CMusgrave)
